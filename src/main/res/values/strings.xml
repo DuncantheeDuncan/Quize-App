@@ -1,0 +1,47 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="check">CONGRATULATION</string>
+    <string name="name_space_field"> names</string>
+    <string name="app_logo">It time you know your Country!</string>
+    <string name="question_1">1.During the British Empire before 1902 what where four previously separated British colonies? </string>
+    <string name="question_2">2.Choose all the correct South African Presidents </string>
+    <string name="question_3">3.What does the protean flower symbolizes? </string>
+    <string name="question_5">5.Choose the correct colors of a South African flag </string>
+    <string name="question_4">6.Choose the first black president </string>
+    <string name="question_7">7.Choose the third president into democracy</string>
+    <string name="question_8">8.to be provided</string>
+    <string name="question_9">9.to be provided</string>
+    <string name="question_10">10.to be provided</string>
+    <string name="np_nc">Cape colony, Natal colony <xliff:g id="cape_colony__natal_colony" example="true">%b</xliff:g></string>
+    <string name="Orang_frm_kzn_colony">Orange farm colony, Kwa-Zulu natal colony<xliff:g id="orange_farm_kzn_colony" example="true">%b</xliff:g></string>
+    <string name="tran_orangeRiver_colony">Transval colony, Orange river colony<xliff:g id="transval_orange_river_colony" example="true">%b</xliff:g></string>
+    <string name="none_provided">None of the obove <xliff:g id="wrong_answer_checkbox" example="true">%b</xliff:g></string>
+    <string name="jacobzuma">Jacob Zuma<xliff:g id="jacob_z" example="true">%b</xliff:g></string>
+    <string name="Thabo_mbheki">Thabo Mbheki<xliff:g id="T_mbheki" example="true">%b</xliff:g></string>
+    <string name="nelson_mandela">Nelson Mandela<xliff:g id="N_mandela" example="true"></xliff:g></string>
+    <string name="de_clerk">FW de klerk<xliff:g id="F_w_clerk" example="true">%b</xliff:g></string>
+    <string name="submit_button">Review<xliff:g id="checkAnswers" example="true"></xliff:g></string>
+    <string name="both_zuma_robberts">PW Botha, Jacob Zuma, Charles Robberts<xliff:g id="both_zuma_robberts" example="true">%b</xliff:g></string>
+    <string name="klerk_Mbeki_Mandela">FW de Klerk, Thabo Mbheki, Nelson Mandela<xliff:g id="klerk_Mbeki_Mandela" example="true">%b</xliff:g></string>
+    <string name="Ramaphosa_montlanthe_Christian">Cyril Ramaphosa, Kgalema Montlanthe, John Christiaan<xliff:g id="Ramaphosa_montlanthe_Christian" example="true">%b</xliff:g></string>
+    <string name="Mbeki_Riebeek_Mandela">Thabo Mbeki, Jaan Van Riebeeck<xliff:g id="Mbeki_Riebeek_Mandela" example="true">%b</xliff:g></string>
+    <string name="Riebeek_Zuma">Jaan Vaan Riebeek, Jacob Zuma<xliff:g id="Riebeek_Zuma" example="true">%b</xliff:g></string>
+    <string name="Mandela_ThabisMbheki">Nelson Mandela, Thabiso Mbheki<xliff:g id="Mandela_ThabisMbheki" example="true">%b</xliff:g></string>
+    <string name="diver_daring">Diversity, Daring<xliff:g id=" diver_daring" example="true">%b</xliff:g></string>
+    <string name="Trans_courge">Transformation, Courage <xliff:g id=" Trans_courge" example="true">%b</xliff:g></string>
+    <string name="diver_love">Diversity, Love<xliff:g id=" diver_love" example="true">%b</xliff:g></string>
+    <string name="trans_unity">Transformation, Unity <xliff:g id="trans_unity" example="true">%b</xliff:g></string>
+    <string name="april_niefour">27 April 1994<xliff:g id="april_niefour" example="true">%b</xliff:g></string>
+    <string name="i28_aprl_90">27 April 1990<xliff:g id=" i28_aprl_90" example="true">%b</xliff:g></string>
+    <string name="i27_june_94">27 June 1994<xliff:g id=" i27_june_94" example="true">%b</xliff:g></string>
+    <string name="choice1">Black, Blue, Green, Red, Yellow and white<xliff:g id=" choice1" example="true"></xliff:g></string>
+    <string name="choice2">Black, Yellow, Green, Red, Yellow and white<xliff:g id=" choice2" example="true"></xliff:g></string>
+    <string name="choice3"> Yellow, Green, Red, Orange, Yellow and white<xliff:g id=" choice3" example="true"></xliff:g></string>
+
+
+
+
+
+
+    <string name="chotice1"> Yellow, Green, Red, Orange, Yellow and white<xliff:g id=" choice1" example="true">%b</xliff:g></string>
+</resources>
